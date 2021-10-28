@@ -4,7 +4,7 @@ from selenium import webdriver
 #import sys
 
 
-chromedriver = '/usr/local/bin/chromedriver'
+chromedriver = "chromedriver"
 options = webdriver.ChromeOptions()
 #prefs = {"download.default_directory" : TempDir1_path}
 #options.add_experimental_option("prefs",prefs)
